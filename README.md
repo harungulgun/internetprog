@@ -1,7 +1,6 @@
 # internetprog
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body>
 <div style="background-color:grey; color:yellow; text-align:center">
